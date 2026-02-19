@@ -11,6 +11,29 @@ A full-stack Asset Management System built with React, Node.js, Express, and Pos
 - **Dashboard**: Real-time statistics.
 - **Reports**: Downloadable CSV reports for assets and assignments.
 
+### Admin Home Page
+
+![Admin Home Page](images/admin_home.png)
+
+### Asset page
+
+![Assets Page](images/assets.png)
+
+### Asset Tracking table
+
+![Asset Tracking Page](images/tracker.png)
+
+### User Tracking Page
+
+![users Track Page](images/users.png)
+
+### Data download Page
+
+![download Page](images/csv.png)
+
+### User Home
+![Asset Tracking Page](images/tracker.png)
+
 ## Tech Stack
 
 - **Frontend**: React, Tailwind CSS, Shadcn UI, Recharts, React Query.
